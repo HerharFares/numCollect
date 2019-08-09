@@ -4,8 +4,8 @@ import os
 import time
 from bs4 import BeautifulSoup
 
-from tools import *
-from easySqlite3 import Db
+from use.tools import *
+from use.easySqlite3 import Db
 ######################################################################
 ######################################################################
 # the search link, without the page token.
