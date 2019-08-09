@@ -1,4 +1,4 @@
-from ouedkniss import *
+from webSite.ouedkniss import *
 
 
 SEARCH_LINK = "https://www.ouedkniss.com/boutiques/stores.php?store=&c={}&wilaya={}"
