@@ -8,7 +8,7 @@ CONTACT_LINK = "https://www.ouedkniss.com/store/contact.php?id={}"
 def find_store_id(page_link):
 	"""
 	To extract the idS of the stores.
-	:param link:
+	:param page_link:
 	:return:
 	"""
 	html = requests.get(page_link, stream=True)
@@ -19,18 +19,22 @@ def find_store_id(page_link):
 	for link in links:
 		yield re.findall(r'id=(\d*)', link["href"])[0]
 
+
 def find_store_info(page_link):
 	"""
 	To extract the idS of the stores.
-	:param link:
+	:param page_link:
 	:return:
 	"""
 	html = requests.get(page_link, stream=True)
 	html = BeautifulSoup(html.text, 'html.parser')
-	
-	links = html.find("div", {"id": "informations"})
+
+	links = html.find("div", {"id": "footer_store"})
+	links = str(links.text).replace("\t", "")
+
 
 	print(links)
+
 
 if __name__ == '__main__':
 	pass
