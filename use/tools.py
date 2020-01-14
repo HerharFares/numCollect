@@ -5,7 +5,8 @@ from pytesseract import image_to_string
 '''
 https://files.pythonhosted.org/packages/8d/b7/c4fae9af5842f69d9c45bf1195a94aec090628535c102894552a7a7dbe6c/tesseract-0.1.3.tar.gz
 '''
-        
+
+
 def uniTel(tel, code):
 	"""
 	The phone number is nuder normal format
@@ -43,4 +44,3 @@ def downloadImg(link, file_name="phone"):
 
 if __name__ == '__main__':
 	imgToText("/home/fares/Music/phones/cache/divers/38/phone0.jpg")
-	
