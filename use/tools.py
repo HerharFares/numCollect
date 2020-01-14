@@ -43,3 +43,4 @@ def downloadImg(link, file_name="phone"):
 
 if __name__ == '__main__':
 	imgToText("/home/fares/Music/phones/cache/divers/38/phone0.jpg")
+	
