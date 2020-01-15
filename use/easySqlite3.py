@@ -123,7 +123,7 @@ class Db(object):
             return True
 
         except Error as e:
-            print(e)
+            return False
 
 
     def justQuery(self, row=None):
@@ -184,7 +184,7 @@ class Db(object):
         insertRow()
         '''
         try:
-            if row != None:
+            if data != None:
                 self.cur.execute(self.query, data)
             else:
                 self.cur.execute(self.query)
