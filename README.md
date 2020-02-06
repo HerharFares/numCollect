@@ -28,3 +28,7 @@ TOOLS:
 PS:
 -
 ***The data is in the data directory, CSV, Json, Db, and TXT file***
+
+<h1 style="color:red">This is for educational purposes only<br>And not meant for harm, or any kind of trouble.</h1>
+
+<h1 style="color:green">The data is public, just exploited what is available only.</h1>
