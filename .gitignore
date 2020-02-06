@@ -3,3 +3,6 @@
 
 # ignore .vscode directory
 .vscode
+
+# __pycache
+__pycache__/*
