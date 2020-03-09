@@ -6,3 +6,6 @@
 
 # __pycache
 __pycache__/*
+
+# the bash file
+*.sh
