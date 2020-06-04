@@ -28,6 +28,6 @@ TOOLS:
 PS:
 -
 ***The generated data, was deleted for reasons(i uploaded it at first, but had to delete it after.....sorry:unamused: :unamused: :unamused:)***
-<h1 style="color:red;">This is for educational purposes only<br>And not meant for harm, or any kind of trouble.</h1>
+# This is for educational purposes only And not meant for harm, or any kind of trouble.
 
-<h1 style="color:green;">The data is public, just exploited what is available only.</h1>
+# The data is public, just exploited what is available only.
