@@ -15,11 +15,11 @@ In the WebSite directory you'll find the scraping code. And some notes and extra
 * Language
   * Python 3.6
 * Libraries
-  * BeautifulSoup (scraping the websites)
-  * Json (for storing the data)
+  * BeautifulSoup (Scraping the websites)
+  * Json (For storing the data)
   * Sqlite3
-  * Pytesseract (for text recognetion, image to text)
-  * Pillow(PIL)
+  * Pytesseract (For text recognetion, image to text)
+  * Pillow (PIL)
 
 ## PS
 
