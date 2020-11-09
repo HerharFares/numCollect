@@ -23,7 +23,7 @@ In the WebSite directory you'll find the scraping code. And some notes and extra
 
 ## PS
 
-***The generated data, was deleted for reasons(i uploaded it at first, but had to delete it after.....sorry:unamused: :unamused: :unamused:)***
+***The generated data, was deleted for reasons(I uploaded it at first, but had to delete it after.....sorry:unamused: :unamused: :unamused:)***
 ***This is for educational purposes only And not meant for harm, or any kind of trouble.***
 
 ***The data is public, just exploited what is available only.***
